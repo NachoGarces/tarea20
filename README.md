@@ -1,24 +1,15 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Tarea 20 Desafío - Creación de un proyecto nuevo
 
-Things you may want to cover:
+Primer proyecto rails
 
-* Ruby version
+Vista home, projects y contact que muestra proyectos antiguos realizados y un navbar que queda fijo en las 3 pantallas, ademas el home en la pantalla de inicio automatica.
 
-* System dependencies
 
-* Configuration
+#### ruby 3.1.4p223
 
-* Database creation
+#### Rails 7.0.4
+## Autor
 
-* Database initialization
+- [@NachoGarces](https://github.com/NachoGarces)
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
